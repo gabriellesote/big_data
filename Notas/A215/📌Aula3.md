@@ -12,7 +12,7 @@
 
 ## Resumo
 
-##### Tópicos:
+### Tópicos:
 <p>
 
   - Operadores de comparação
@@ -21,7 +21,18 @@
   - 
 </p>
 
-### A3:
+
+### Atividade:
+<p>
+  
+  - Faça um programa quereceba 4 notas e o nome de um aluno (via terminal) e diga se ele foi aprovado, reprovado ou está de recuperação.
+    - Cada nota não pode ser maior que 25
+    - Aprovado: >= 20
+    - Recuperação: >=40 e < 60
+    - Reprovado: < 40
+</p>
+
+### Sobre a A3:
 <p>
   - Atividades
   - Trabalho final baseado nas atividades
