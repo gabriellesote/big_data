@@ -8,4 +8,12 @@
 
 <h4 align=center>  <em>Professor responsável: Reinaldo Carlos </em></h4>
 
+<h5 align=center>  reinaldomendes.professor@gmail.com </h5>
 
+## Resumo
+
+##### Tópicos:
+<p>
+
+  - Operadores de comparação
+</p>
