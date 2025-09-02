@@ -16,4 +16,14 @@
 <p>
 
   - Operadores de comparação
+  - Introdução ao Python
+  - 📌 Vamos aprofundar na matéria de verdade quando começarmos a estudar dataframe
+  - 
+</p>
+
+### A3:
+<p>
+  - Atividades
+  - Trabalho final baseado nas atividades
+  - Conclusão de um curso por fora. 
 </p>
